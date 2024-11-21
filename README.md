@@ -28,7 +28,7 @@ It’s compiled because I don’t want to mess up your system, and frankly, I wa
 
 **N3XUS** comes in a compiled `.exe` format for simplicity. Here's how you can install it:
 
-1. Download the latest release from the [Releases page](https://github.com/daniel/n3xus/releases).
+1. Download the latest release from the [Releases page](https://github.com/DanielProCode/WindowsOptimizer/releases/tag/Optimizer).
 2. Run the installer and follow the on-screen instructions.
 3. Launch **N3XUS** and let it do its magic!
 
